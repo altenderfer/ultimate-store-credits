@@ -1,0 +1,80 @@
+/**
+ * Admin settings page (dark mode) using your brand colors.
+ *
+ * Brand Colors:
+ *   Dark Background: #091324
+ *   Main Brand Blue: #346DFE
+ *   Lighter Grey-Blue: #182430
+ *   Gradient occasionally: #FFFFFE -> #FEE31F
+ */
+
+ .usc-admin-settings {
+    background: #091324;
+    color: #ffffff;
+    padding: 20px;
+    border: 1px solid #182430;
+    max-width: 900px;
+    margin: 20px auto;
+    border-radius: 6px;
+}
+.usc-admin-settings h1 {
+    margin-top: 0;
+    border-bottom: 2px solid #346DFE;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    font-size: 1.6em;
+    font-weight: 800;
+    color: #ffffff !important;
+}
+.usc-admin-settings h2 {
+    color: #ffffff !important;
+}
+.usc-admin-settings table.form-table th {
+    color: #FFFFFE;
+    padding: 10px !important;
+}
+.usc-admin-settings table.form-table {
+    background-color: #182430;
+    padding: 15px;
+    border-radius: 6px;
+}
+.usc-admin-settings table.form-table label {
+    font-weight: 600;
+}
+.usc-admin-settings input[type="number"],
+.usc-admin-settings input[type="text"],
+.usc-admin-settings input[type="date"],
+.usc-admin-settings select {
+    background: #091324;
+    color: #ffffff;
+    border: 1px solid #346DFE;
+    padding: 5px;
+}
+.usc-admin-settings .button.button-primary {
+    background: #346DFE;
+    border-color: #346DFE;
+}
+.usc-admin-settings .button.button-primary:hover {
+    opacity: 0.9;
+}
+.usc-admin-settings .button.button-secondary {
+    background: #345;
+    border-color: #345;
+    color: #fff;
+}
+.usc-admin-settings .button.button-secondary:hover {
+    opacity: 0.9;
+}
+.usc-admin-settings p.description {
+    color: #cccccc;
+    font-size: 13px;
+    margin-top: 2px;
+}
+.usc-admin-settings hr {
+    margin: 30px 0;
+    border-color: #182430;
+}
+
+.usc-admin-settings .notice p {
+    color:#182430;
+}
