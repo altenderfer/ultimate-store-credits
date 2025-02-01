@@ -1,5 +1,7 @@
 # Ultimate Store Credits for WooCommerce
 
+![Ultimate Store Credits for WooCommerce Screenshot.](https://kylealtenderfer.com/github/ultimate-store-credits-kyle-altenderfer-v1.png)
+
 **Version 1.0.0**  
 Author: [Kyle Altenderfer](https://kylealtenderfer.com)
 
