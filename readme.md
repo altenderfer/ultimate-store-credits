@@ -56,7 +56,7 @@ It auto-generates a coupon like `credits-xyz123`, used once, then cleans stale c
 Yes, it appears on their user profile as read-only.
 
 **GitHub-based updates**?  
-Yes! We’ve included [Plugin Update Checker](https://github.com/YahnisElsts/plugin-update-checker). Just push new tagged releases to your GitHub repo.
+Yes! We’ve included [Plugin Update Checker](https://github.com/YahnisElsts/plugin-update-checker).
 
 ## Changelog
 
