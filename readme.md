@@ -61,11 +61,8 @@ Yes! We’ve included [Plugin Update Checker](https://github.com/YahnisElsts/plu
 ## Changelog
 
 ### 1.0.0
-- First release under “Ultimate Store Credits”
-- Inherited all core features from the earlier concept
-- Hourly stale-coupon cleanup
-- Test rollover tool
-- Dark-mode admin styling
+- First release for “Ultimate Store Credits”
+- All core features finalized
 
 ## Author
 
